@@ -52,7 +52,7 @@ body {
 }
 
 /* Position Correct/Wrong Text at the Top Right */
-.wr, .wrong {
+/*.wr, .wrong {
     position: absolute;
     top: 10px;
     right: 10px;
@@ -63,7 +63,7 @@ body {
     padding-bottom: 25px;
     border-radius: 5px;
 }
-
+*/
 /* Main Content */
 main {
     width: 600px;
