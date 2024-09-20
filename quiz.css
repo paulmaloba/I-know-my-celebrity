@@ -199,6 +199,8 @@ hr {
     #display {
         font-size: 1.4em;
     }
+    #final {
+        font-size: 40px;
 
     .wr, .wrong {
         font-size: 40px;
