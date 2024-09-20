@@ -18,7 +18,7 @@ body {
     top: 10px;
     left: 50%;
     transform: translateX(-50%); /* Center horizontally */
-    font-size: 3.5em;
+    font-size: 15px;
     font-weight: bold;
     color: #28a745;
     margin: 0;
