@@ -123,43 +123,7 @@ button:active {
     margin-top: 20px;
 }
 
-/* Responsive Design */
-@media (max-width: 600px) {
-    body {
-        font-size: 16px;
-        padding: 10px;
-    }
-    main {
-        padding: 20px;
-        width: 100%;
-    }
-    .title h2{
-        font-size: 2em;
-    }
-    .title button{
-        font-size: 1.2em;
-        padding: 12px 20px;
-    }
-    label {
-        padding: 12px;
-        font-size: 1.2em;
-    }
-    input[type="radio"] {
-        transform: scale(1.3);
-    }
 
-    #quest {
-        font-size: 1.4em;
-    }
-
-    button {
-        font-size: 1.1em;
-        padding: 15px 20px;
-    }
-    #result {
-        font-size: 1.3em;
-    }
-}
 .wr p{
     position: absolute;
     top: 0;
@@ -237,4 +201,41 @@ center .title, bu button {
     margin: 10px;
     font-size: 20px;
     color: white;
+}
+/* Responsive Design */
+@media (max-width: 600px) {
+    body {
+        font-size: 16px;
+        padding: 10px;
+    }
+    main {
+        padding: 20px;
+        width: 100%;
+    }
+    .title h2{
+        font-size: 2em;
+    }
+    .title button{
+        font-size: 1.2em;
+        padding: 12px 20px;
+    }
+    label {
+        padding: 12px;
+        font-size: 1.2em;
+    }
+    input[type="radio"] {
+        transform: scale(1.3);
+    }
+
+    #quest {
+        font-size: 1.4em;
+    }
+
+    button {
+        font-size: 1.1em;
+        padding: 15px 20px;
+    }
+    #result {
+        font-size: 1.3em;
+    }
 }
