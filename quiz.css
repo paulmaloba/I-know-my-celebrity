@@ -30,16 +30,22 @@ body {
     top: 10px;
     left: 10px;
     font-size: 90px;
+    background-color: #1e90ff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 20px;
 }
 
-.hom {
+/*.hom {
     background-color: #1e90ff; /* Blue for Home button */
-    color: white;
+  /*  color: white;
     padding: 10px 20px;
     
     border-radius: 5px;
     cursor: pointer;
 }
+*/
 
 .hom:hover {
     background-color: #155fa0;
