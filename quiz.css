@@ -184,12 +184,12 @@ hr {
     }
 
     .bac {
-        font-size: 1.1em;
+        font-size: 4.2em;
         padding: 10px 15px;
     }
 
     .hom {
-        font-size: 1.1em;
+        font-size: 20px;
         padding: 10px 15px;
     }
 
@@ -198,6 +198,6 @@ hr {
     }
 
     .wr, .wrong {
-        font-size: 1.4em;
+        font-size: 20px;
     }
 }
