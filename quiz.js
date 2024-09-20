@@ -272,6 +272,7 @@ function next() {
 function home() {
     document.querySelector(".quiz").style.display = "none";
     document.querySelector(".title").style.display = "block";
+    score = 0;
 }
 function back() {
     if (currentQuiz > 0) {
