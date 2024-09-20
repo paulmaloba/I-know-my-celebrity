@@ -244,6 +244,7 @@ function next() {
         else if (chosenRadio.id === "ansc") selectedAnswer = document.getElementById("c_text").textContent;
 
         if (selectedAnswer === currentQuizData.correct) {
+            score++;
             document.querySelector(".wr").style.display = "block";
             document.querySelector(".wrong").style.display = "none";
            document.getElementById("display"). textContent = score++ + " points";
